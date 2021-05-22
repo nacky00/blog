@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+<<<<<<< HEAD
 title = "natsumaru"
+=======
+title = "My New Hugo Site"
+>>>>>>> 096297f1bebf9c980f493787411c62e6209d8831
 theme = "papermod"

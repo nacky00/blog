@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://natsumaru.netlify.app/</loc>
+    <lastmod>2021-11-07T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://natsumaru.netlify.app/posts/</loc>
+    <lastmod>2021-11-07T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://natsumaru.netlify.app/posts/google-spreadsheet-color-todays-row/</loc>
+    <lastmod>2021-11-07T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/python-kana/</loc>
+    <lastmod>2021-10-17T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/search-color/</loc>
+    <lastmod>2021-07-18T15:40:00+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/google-spreadsheet-query-where-from-other-sheet/</loc>
+    <lastmod>2021-05-24T11:03:20+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/google-spreadsheet-conbine-cells/</loc>
+    <lastmod>2021-05-24T10:57:04+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/first_post/</loc>
+    <lastmod>2021-05-22T17:28:44+09:00</lastmod>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/posts/slack-fileupload/</loc>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://natsumaru.netlify.app/tags/</loc>
   </url>
 </urlset>

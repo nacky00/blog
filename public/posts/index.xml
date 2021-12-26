@@ -6,7 +6,16 @@
     <description>Recent content in Posts on natsumaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 18:00:00 +0900</lastBuildDate><atom:link href="https://natsumaru.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 13:45:00 +0900</lastBuildDate><atom:link href="https://natsumaru.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Googleスプレッドシート】数字の値に応じた文字列を設定する</title>
+      <link>https://natsumaru.netlify.app/posts/google-spreadsheet-ifs-number-group/</link>
+      <pubDate>Sun, 26 Dec 2021 13:45:00 +0900</pubDate>
+      
+      <guid>https://natsumaru.netlify.app/posts/google-spreadsheet-ifs-number-group/</guid>
+      <description>完成イメージ 使用する関数  ARRAYFORMULA関数 IF関数 IFS関数  入力例 =ARRAYFORMULA(IF(A2:A&amp;lt;&amp;gt;&amp;quot;&amp;quot;, IFS(B2:B&amp;gt;=500,&amp;quot;500以上&amp;quot;,B2:B&amp;gt;=100,&amp;quot;100以上500未満&amp;quot;,B2:B&amp;gt;=50,&amp;quot;50以上100未満&amp;quot;,B2:B&amp;gt;=20,&amp;quot;20以上50未満&amp;quot;,TRUE,&amp;quot;20未満&amp;quot;), &amp;quot;&amp;quot;)) </description>
+    </item>
+    
     <item>
       <title>【Googleスプレッドシート】今日の日付の行を色づける</title>
       <link>https://natsumaru.netlify.app/posts/google-spreadsheet-color-todays-row/</link>
